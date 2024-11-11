@@ -21,9 +21,10 @@ O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pe
 
 [LINK PARA O VÍDEO AQUI](https://studio.d-id.com/share?id=e2a9b16f02f9133bf5352385c090a342)
 
-[LINK PARA (imagem01)](https://raw.githubusercontent.com/rodrigor-ti/lab-natty-or-not/refs/heads/main/exemplos/configuracoes.jpg)
+![image (imagem01)](https://raw.githubusercontent.com/rodrigor-ti/lab-natty-or-not/refs/heads/main/exemplos/configuracoes.jpg)
 
-[LINK PARA (imagem02)](https://raw.githubusercontent.com/rodrigor-ti/lab-natty-or-not/refs/heads/main/exemplos/video%20gerado.jpg)
+![image (imagem01)](https://raw.githubusercontent.com/rodrigor-ti/lab-natty-or-not/refs/heads/main/exemplos/video%20gerado.jpg)
+
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
