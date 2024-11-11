@@ -6,6 +6,12 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+   - Personalizei o Avatar;
+   - Organização do roreiro;
+   - Seleção do idioma e voz;
+  - Retirei o fundo da foto;
+
+Observação: A geração de videos vai consumindo os créditos, por tanta cuidado ao ficar testando.
 
 ## 🧐 Processo de Criação
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
