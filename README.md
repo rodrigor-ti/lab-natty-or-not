@@ -1,3 +1,7 @@
+# Projeto entregue seguindo o modelo 💻
+- [Meu projeto foi esse com video usando um AVATAR virtual](/exemplos/VIDEO.md)
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
